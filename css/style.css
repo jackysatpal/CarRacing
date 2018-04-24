@@ -1,0 +1,14 @@
+#canvas {
+  background-color: #777C79;
+  width: 40vw;
+  height: 97vh;
+}
+
+#game {
+  display: flex;
+  justify-content: center;
+}
+
+html {
+  background-color: #30EF70;
+}
